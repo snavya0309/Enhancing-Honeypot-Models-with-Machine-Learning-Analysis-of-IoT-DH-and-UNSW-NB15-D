@@ -1,3 +1,7 @@
+Generative AI Acknowledgment:
+Portions of the code in this project were generated with assistance from Perplexity Pro Search, an AI tool developed by Perplexity AI.
+Reference: Perplexity AI. (2024). Perplexity [Pro Search]. perplexity.ai
+
 # IoT-DH Dataset Analysis
 
 ## Overview
